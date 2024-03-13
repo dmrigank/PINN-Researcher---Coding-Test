@@ -1,1 +1,1 @@
-# PINN-Researcher---Coding-Test
+# Code and results from the coding test
